@@ -1,0 +1,2 @@
+# HashLab
+Gerador de Hashs
